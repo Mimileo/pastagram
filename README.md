@@ -48,3 +48,8 @@ Update in server<br>
 <img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' /><br>
 
 
+Infinite Scroll <br>
+<img src='https://i.imgur.com/rMKSxb7.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+
+
+
