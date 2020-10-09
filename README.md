@@ -23,20 +23,23 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-User sees app icon in home screen and styled launch screen.
-<img src='https://i.imgur.com/Oa6QuKo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+User sees app icon in home screen and styled launch screen.<br>
+<img src='https://i.imgur.com/Oa6QuKo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
-User can sign up to create a new account
-<img src='https://i.imgur.com/HqD6ZCZ.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+User can sign up to create a new account<br>
+<img src='https://i.imgur.com/HqD6ZCZ.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
-User can log in
-<img src='https://i.imgur.com/DlSJWfx.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+User can log in<br>
+<img src='https://i.imgur.com/DlSJWfx.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
-User can take a photo, add a caption, and post it to the server.
-<img src='https://i.imgur.com/YVsXXKc.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/nGSK0nK.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-Pull to Refresh
+User can take a photo, add a caption, and post it to the server.<br>
+<img src='https://i.imgur.com/YVsXXKc.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+<img src='https://i.imgur.com/nGSK0nK.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+Choose Picture and Submit<br>
+<img src='https://i.imgur.com/RiM4XMC.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
-<img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/7PuhXII.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+
+<img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 
