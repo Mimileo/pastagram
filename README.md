@@ -44,7 +44,7 @@ Write Caption<br>
 Submit and Pull to Refresh<br>
 <img src='https://i.imgur.com/7PuhXII.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
-Update in server
-<img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='450' alt='Video Walkthrough' /><br>
+Update in server<br>
+<img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' /><br>
 
 
