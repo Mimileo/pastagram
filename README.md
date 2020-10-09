@@ -37,9 +37,10 @@ User can take a photo, add a caption, and post it to the server.<br>
 
 <img src='https://i.imgur.com/RiM4XMC.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
+Choose Picture
 <img src='https://i.imgur.com/nGSK0nK.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
-Choose Picture and Submit<br>
+Submit and Pull to Refresh<br>
 <img src='https://i.imgur.com/7PuhXII.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 <img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
