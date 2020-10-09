@@ -88,6 +88,15 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         
         cell.captionLabel.text = post["caption"] as! String
         
+        let date = post.createdAt!
+        let format = DateFormatter()
+        format.dateFormat = "MMM d, h:mma"
+        let formattedDate = format.string(from: date)
+        print(formattedDate)
+        
+        print()
+        cell.timeStampLabel.text = formattedDate
+        
         let imageFile = post["image"] as! PFFileObject
         let urlString = imageFile.url!
         let url = URL(string: urlString)!
@@ -124,7 +133,8 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         // call everytime the refresh control is triggered to update table
         let query = PFQuery(className: "Posts")
         query.includeKey("author")
-        numOfPosts = 5
+        query.includeKey("createdAt")
+        numOfPosts = 20
         query.limit = numOfPosts
     
        
@@ -161,7 +171,8 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
     func loadMorePosts() {
         let query = PFQuery(className: "Posts")
         query.includeKey("author")
-        numOfPosts = numOfPosts + 5
+        query.includeKey("createdAt")
+        numOfPosts = numOfPosts + 20
         query.limit = numOfPosts
         query.addDescendingOrder("createdAt")
 
