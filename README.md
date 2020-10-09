@@ -34,3 +34,9 @@ User can log in
 
 User can take a photo, add a caption, and post it to the server.
 <img src='https://i.imgur.com/YVsXXKc.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/nGSK0nK.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+Pull to Refresh
+
+<img src='https://i.imgur.com/ZSaDYul.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+
