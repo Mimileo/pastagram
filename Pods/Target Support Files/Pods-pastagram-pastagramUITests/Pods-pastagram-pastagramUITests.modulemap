@@ -1,0 +1,6 @@
+framework module Pods_pastagram_pastagramUITests {
+  umbrella header "Pods-pastagram-pastagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
