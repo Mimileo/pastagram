@@ -29,7 +29,27 @@ class LoginViewController: UIViewController {
         let password = passwordField.text!
         PFUser.logInWithUsername(inBackground: username, password: password) { (user, error) in
             if user != nil {
-                self.performSegue(withIdentifier: "loginSegue", sender: nil)
+               
+                print("Siging in...")
+                 //self.performSegue(withIdentifier: "loginSegue", sender: nil)
+                
+                
+                let main = UIStoryboard(name: "Main", bundle: nil)
+                //let tabBarController = main.instantiateViewController(withIdentifier: "tabBarControllerIdentifier")
+
+                let feedViewController = main.instantiateViewController(withIdentifier: "FeedNavigationController")
+                       
+                print(UIApplication.shared.connectedScenes)
+                guard let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene,
+                         let delegate = windowScene.delegate as? SceneDelegate
+                       else {
+                         return
+                       }
+                       
+                      // let delegate = UIApplication.shared.delegate as! AppDelegate
+                       
+                       delegate.window?.rootViewController = feedViewController
+                
             } else {
                 print("Error: \(String(describing: error?.localizedDescription))")
             }

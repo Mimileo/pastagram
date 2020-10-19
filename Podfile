@@ -8,6 +8,7 @@ target 'pastagram' do
   # Pods for pastagram
   pod 'Parse'
   pod 'AlamofireImage', '~> 4.1'
+  pod 'MessageInputBar'
 
   target 'pastagramTests' do
     inherit! :search_paths
