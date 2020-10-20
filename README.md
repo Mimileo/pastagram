@@ -33,6 +33,8 @@ Profile pictures are shown for posts and comments. <br>
 <img src='https://i.imgur.com/YtO1yHK.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 User can add a profile picture.<br>
+
+<img src='https://i.imgur.com/bUiSTPX.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 <img src='https://i.imgur.com/obpMStf.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 
