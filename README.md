@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 User stays logged in across restarts.<br>
-<img src='https://i.imgur.com/jMEcX4I.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+<img src='https://i.imgur.com/Ei7qtoX.gifv' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 User can log out.<br>
 <img src='https://i.imgur.com/npiOxrZ.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
