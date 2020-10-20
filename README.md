@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [] User can add a profile picture. (2pts)
+- [x] User can add a profile picture. (2pts)
 - [x] Profile pictures are shown for posts and comments. (2pts)
 
 ## Video Walkthrough
@@ -33,7 +33,7 @@ Profile pictures are shown for posts and comments. <br>
 <img src='https://i.imgur.com/YtO1yHK.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 User can add a profile picture.<br>
-<img src='' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+<img src='https://i.imgur.com/obpMStf.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
 
 
 
